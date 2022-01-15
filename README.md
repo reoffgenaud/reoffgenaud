@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @reoffgenaud , co-owner of Invisible North
-- 👀 I’m interested in helping founding teams with marketing, growth and communications strategy...
+- 👀 I’m interested in helping founding teams with marketing, growth and communications strategy
 - 🌱 We're growing the largest marketing agency in web3
-- 💞️ I’m looking to supportearly-stage teams on their launch/marketing strategy...
+- 💞️ I’m looking to support visionary founders projects
 - 📫 How to reach me geoff@invisiblenorth.com or on TG @rockin_renaud
 -
 <!---
